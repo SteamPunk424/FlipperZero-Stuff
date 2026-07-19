@@ -1,0 +1,1 @@
+# To manage animations and preview them use https://github.com/Ooggle/FlipperAnimationManager
