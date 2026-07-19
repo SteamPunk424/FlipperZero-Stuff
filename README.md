@@ -1,1 +1,1 @@
-"# FlipperZero-Stuff" 
+# A collection of slipper zero stuff. Feel Free to use it however you like.
