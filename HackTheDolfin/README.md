@@ -1,4 +1,4 @@
-# Being a Level 1 Noob is Cringe so hack your dolfin to max Level
+# Being a Level 1 Noob is Cringe so hack your dolphin to max Level
 
 Step 1: Open up the qflipper application and connect the flipper zero.
 
